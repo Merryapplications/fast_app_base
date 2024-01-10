@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'app.dart';
 import 'common/data/preference/app_preferences.dart';
 
+/// carrot v1 test
+/// 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await EasyLocalization.ensureInitialized();
